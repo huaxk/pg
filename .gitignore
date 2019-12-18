@@ -1,0 +1,6 @@
+*
+!*.nim
+!*.nims
+!*.nimble
+!*.md
+!.gitignore
